@@ -47,4 +47,4 @@ composer remove hlw2326/think-plugs-center
 
 该插件不创建独立业务数据表；安装迁移仅写入插件中心菜单入口。
 
-> 备注：本项目基于 ThinkAdmin 进行魔改。
+> 备注：本项目是通过 ThinkAdmin 魔改的。
